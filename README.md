@@ -4,6 +4,7 @@ This repository contains the code used throughout my thesis, entitled, "explorin
 their utility as a model for Alzheimer's disease".
 
 Within my thesis there are four data chapters which required analysis using bioinformatics, those chapters are:
+
 **Chapter 3** - Determining protein level changes throughout induced pluripotent stem cell (iPSC) differentiation into neurons
 
 **Chapter 4** - Characterising the epigenetic changes occuring throughout iPSC differentiation into neurons
